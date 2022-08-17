@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include "hashing.hpp"
+#include "hashing.cpp"
 
 using namespace std;
 
