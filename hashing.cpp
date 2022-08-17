@@ -1,6 +1,6 @@
 #include "hashing.hpp"
 
-int hash_string(string s) {
+int hash_string(string s,int m) {
   int i = 0;
  int sum = 0;
 int m = 97;
