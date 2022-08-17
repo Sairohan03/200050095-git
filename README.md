@@ -5,7 +5,7 @@
 | Roll Number | 200050095 |
 
 ## About Repo
-The repo is about a program which maps a string to value,in other words it gives us a hash function.we implemented two hash function,the second is better than first.Hash functions are used to map high amounts of data to a small range of values(with linked lists).It is mainly used in security purposes.
+The repo is about a program which maps a string to value,in other words it gives us a hash function.we implemented two hash function,the second is better than first.Hash functions are used to map high amounts of data to a small range of values(with linked lists).It is mainly used in **security** purposes.
 
 ## Instructions to run the code
 1. for q2 use ./candies.sh n
